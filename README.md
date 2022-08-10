@@ -23,4 +23,11 @@ To be honest, I’m almost positive the name was really clever but I cannot for 
 - [Twitter](https://twitter.com/NeoYokel)
 - [Mastodon](https://mastodon.social/@DavidBlue)
 - [Discord](https://discord.gg/0b9KQUKP858b0iZF)
-- [*Everywhere*](https://raindrop.io/davidblue/social-directory-21059174)...
+- [*Everywhere*](https://raindrop.io/davidblue/social-directory-21059174)...---
+![08102022-185149](https://github.com/extratone/davod/raw/main/images/08102022-185149.png)
+
+<audio controls>
+  <source src="https://github.com/extratone/davod/blob/main/splain/08102022-180506.m4a">
+</audio>
+
+Oh that's why are you racing wow I can't leave automated this
