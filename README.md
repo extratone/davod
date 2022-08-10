@@ -30,4 +30,11 @@ To be honest, I’m almost positive the name was really clever but I cannot for 
   <source src="https://github.com/extratone/davod/blob/main/splain/08102022-180506.m4a">
 </audio>
 
-Oh that's why are you racing wow I can't leave automated this
+Oh that's why are you racing wow I can't leave automated this---
+![08102022-185721](https://github.com/extratone/davod/raw/main/images/08102022-185721.png)
+
+<audio controls>
+  <source src="https://github.com/extratone/davod/blob/main/splain/08102022-180506.m4a">
+</audio>
+
+This is truly ridiculous and I hope that I haven't spent so much time as much time as I think I have but for better for worse worse I think this is probably about as much stupid fun as you can actually have answers or else you know sorry about the water by the way
