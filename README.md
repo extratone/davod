@@ -14,4 +14,11 @@ Take me home tonight be my little baby---
   <source src="https://github.com/extratone/davod/blob/main/splain/08102022-180506.m4a">
 </audio>
 
-And honestly I'm just surprised that this iPad Pro has crashed yet but
+And honestly I'm just surprised that this iPad Pro has crashed yet but---
+![08102022-194125](https://github.com/extratone/davod/raw/main/images/08102022-194125.png)
+
+<audio controls>
+  <source src="https://github.com/extratone/davod/blob/main/splain/08102022-180506.m4a">
+</audio>
+
+We're trying the URL variable site now and somewhere action
