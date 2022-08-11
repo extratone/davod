@@ -7,4 +7,11 @@ https://www.icloud.com/shortcuts/3b9ff8d62567489fbc42c809a0726e7f---
   <source src="https://github.com/extratone/davod/blob/main/splain/08102022-180506.m4a">
 </audio>
 
-Take me home tonight be my little baby
+Take me home tonight be my little baby---
+![08102022-192241](https://github.com/extratone/davod/raw/main/images/08102022-192241.png)
+
+<audio controls>
+  <source src="https://github.com/extratone/davod/blob/main/splain/08102022-180506.m4a">
+</audio>
+
+And honestly I'm just surprised that this iPad Pro has crashed yet but
