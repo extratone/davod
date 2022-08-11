@@ -21,4 +21,11 @@ And honestly I'm just surprised that this iPad Pro has crashed yet but---
   <source src="https://github.com/extratone/davod/blob/main/splain/08102022-180506.m4a">
 </audio>
 
-We're trying the URL variable site now and somewhere action
+We're trying the URL variable site now and somewhere action---
+![08102022-211305](https://github.com/extratone/davod/raw/main/images/08102022-211305.png)
+
+<audio controls>
+  <source src="https://github.com/extratone/davod/blob/main/splain/08102022-180506.m4a">
+</audio>
+
+Hi recording that has a 32nd time on it and then when I tap done it's going to take a front facing picture take the background out crap it to square include it as an oil file with that as the album art whatever it is that it sees and immediately uploaded to work press and again a repository call David
