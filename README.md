@@ -28,4 +28,11 @@ We're trying the URL variable site now and somewhere action---
   <source src="https://github.com/extratone/davod/blob/main/splain/08102022-180506.m4a">
 </audio>
 
-Hi recording that has a 32nd time on it and then when I tap done it's going to take a front facing picture take the background out crap it to square include it as an oil file with that as the album art whatever it is that it sees and immediately uploaded to work press and again a repository call David
+Hi recording that has a 32nd time on it and then when I tap done it's going to take a front facing picture take the background out crap it to square include it as an oil file with that as the album art whatever it is that it sees and immediately uploaded to work press and again a repository call David---
+![08112022-090600](https://github.com/extratone/davod/raw/main/images/08112022-090600.png)
+
+<audio controls>
+  <source src="https://github.com/extratone/davod/blob/main/splain/08102022-180506.m4a">
+</audio>
+
+This is another test quick brown fox jumps over the lazy dog
